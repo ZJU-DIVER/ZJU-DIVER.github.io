@@ -7,7 +7,7 @@ xxxyyyyyyyyzzzzzzzzzzzz
 
 ## News
 
-xxx
+Jinfei Liu from Zhejiang University
 
 ## Research Areas and Interests
 
