@@ -29,7 +29,7 @@ Qiheng Sun
 
 ## Selected Publications
 
-**Jiayao Zhang, Yuran Bi, Mengye Cheng, Jinfei Liu*, Kui Ren, Qiheng Sun, Yihang Wu, Yang Cao, Raul Castro Fernandez, Haifeng Xu, Ruoxi Jia, Yongchan Kwon, Jian Pei, Jiachen T. Wang, Haocheng Xia, Li Xiong, Xiaohui Yu, and James Zou. A Survey on Data Markets. arXiv:2411.07267.
+Jiayao Zhang, Yuran Bi, Mengye Cheng, Jinfei Liu*, Kui Ren, Qiheng Sun, Yihang Wu, Yang Cao, Raul Castro Fernandez, Haifeng Xu, Ruoxi Jia, Yongchan Kwon, Jian Pei, Jiachen T. Wang, Haocheng Xia, Li Xiong, Xiaohui Yu, and James Zou. A Survey on Data Markets. arXiv:2411.07267.
 
 Peng Sun, Lintao Wu, Zhibo Wang, Jinfei Liu, Juan Luo, and Wenqiang Jin. A Profit-Maximizing Data Marketplace with Differentially Private Federated Learning under Price Competition. SIGMOD 2025. (CCF A)
 
@@ -123,7 +123,7 @@ Haoran Li, Li Xiong, Xiaoqian Jiang, and Jinfei Liu. Differentially Private Hist
 
 Jinfei Liu, Li Xiong, and Xiaofeng Xu. Faster Output-Sensitive Skyline Computation Algorithm. Information Processing Letters, 2014. 
 
-------We design a faster skyline algorithm that has not been improved in the past 29 years from the theoretical perspective.**
+------We design a faster skyline algorithm that has not been improved in the past 29 years from the theoretical perspective.
 
 ## Teaching
 
