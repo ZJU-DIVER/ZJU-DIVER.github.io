@@ -19,6 +19,10 @@ xxx
 
 ### Master Students
 
+Jiajun Tang
+
+Qiheng Sun
+
 ### Undergraduate Students
 
 ### Alumni
